@@ -16,7 +16,7 @@
 Me chamo **Ryan Matheus** (Skg), tenho 22 anos e sou de Salvador/BA.
 Sou fascinado por Programação e Jogos 🎮!
 
-- 🔭 Atualmente estou trabalhando em novos sistemas StoneCare!
+- 🔭 Atualmente estou trabalhando na StoneCare!
 - 🌱 Estudando **Curso Ford** (Front-End) e cursando **Engenharia de Computação** 💻
 - 💬 Me pergunte sobre: CyberSegurança, Programação, Hardware, Softwares e SOs
 
