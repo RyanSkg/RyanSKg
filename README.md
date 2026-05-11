@@ -81,7 +81,7 @@ Sou fascinado por Programação e Jogos 🎮!
   &nbsp;
   <img height="160" src="https://streak-stats.demolab.com/?user=RyanSkg&theme=catppuccin_mocha&hide_border=false"/>
 
-  <br><br>
+  <br>
 
   <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RyanSkg&theme=catppuccin_mocha&hide_border=false&count_private=false&layout=donut"/>
 
