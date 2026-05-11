@@ -89,11 +89,7 @@ Sou fascinado por Programação e Jogos 🎮!
 
 ---
 
-
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
-
-
 
 ---
 
