@@ -1,15 +1,7 @@
 <div align="center">
-
-
-
+  
 ![Visitors](https://komarev.com/ghpvc/?username=RyanSkg&color=blueviolet&style=for-the-badge)
-
-
-
-
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%2300B140.svg?style=for-the-badge)
-
-
 
 # 👋 Hello Devs! Welcome to my Github profile.
 
