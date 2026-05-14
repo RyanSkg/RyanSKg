@@ -22,7 +22,7 @@ Sou fascinado por Programação e Jogos 🎮!
 
 - 🔭 Atualmente estou trabalhando na StoneCare!
 - 🌱 Estudando **Curso Ford** (Front-End) e cursando **Engenharia de Computação** 💻
-- 💬 Me pergunte sobre: CyberSegurança, Programação, Hardware, Softwares e SOs
+- 💬 Me pergunte sobre: CyberSegurança, Programação, Hardware, Softwares e SOs (Sistemas Operacionais).
 
 ---
 
@@ -72,7 +72,7 @@ Sou fascinado por Programação e Jogos 🎮!
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RyanSkg&theme=dracula&row=1&column=6&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RyanSkg&theme=aura&row=1&column=6&no-frame=true"/>
 </div>
 
 ---
