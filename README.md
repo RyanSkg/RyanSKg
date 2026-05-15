@@ -22,7 +22,7 @@ Sou fascinado por Programação 💻, Jogos 🎮 e Músicas 🎧!
 
 - 🔭 Atualmente estou trabalhando na StoneCare!
 - 🌱 Estudando **Curso Ford** (Front-End) e cursando **Engenharia de Computação** ⚙️.
-- 💬 Me pergunte sobre: CyberSegurança, Programação, Hardware, Softwares, SOs (Sistemas Operacionais) ou qualquer outros interesses!
+- 💬 Me pergunte sobre: CyberSegurança, Programação, Hardware, Softwares, SOs (Sistemas Operacionais) ou qualquer outro interesse!
 
 ---
 
