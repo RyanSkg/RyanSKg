@@ -72,7 +72,7 @@ Sou fascinado por Programação 💻, Jogos 🎮 e Músicas 🎧!
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RyanSkg&theme=aura&row=1&column=6&no-frame=true"/>
+  <img src="https://github-trophies.vercel.app/?username=RyanSkg&theme=aura&row=1&column=6&no-frame=true"/>
 </div>
 
 ---
