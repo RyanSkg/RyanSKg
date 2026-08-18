@@ -72,7 +72,7 @@ Sou fascinado por Programação 💻, Jogos 🎮 e Músicas 🎧!
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=RyanSkg&theme=aura&row=1&column=6&no-frame=true"/>
+  <img src="https://github-trophies.vercel.app/?username=RyanSkg&theme=aura&row=1&column=6&no-frame=true&margin-w=8" alt="Troféus do GitHub"/>
 </div>
 
 ---
@@ -81,24 +81,28 @@ Sou fascinado por Programação 💻, Jogos 🎮 e Músicas 🎧!
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=RyanSkg&rank_icon=github&show_icons=true&theme=catppuccin_mocha&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=RyanSkg&rank_icon=github&show_icons=true&count_private=true&theme=catppuccin_mocha&hide_border=true&border_radius=10" alt="Estatísticas do GitHub"/>
   &nbsp;
-  <img height="160" src="https://streak-stats.demolab.com/?user=RyanSkg&theme=catppuccin_mocha&hide_border=false"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RyanSkg&layout=compact&langs_count=6&count_private=true&theme=catppuccin_mocha&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
 
-  <br>
+  <br><br>
 
-  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RyanSkg&theme=catppuccin_mocha&hide_border=false&count_private=false&layout=donut"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=RyanSkg&theme=catppuccin_mocha&hide_border=true&border_radius=10" alt="Sequência de contribuições"/>
 
 </div>
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
-
----
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanSkg/RyanSkg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanSkg/RyanSkg/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RyanSkg/RyanSkg/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanSkg/RyanSkg/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha percorrendo o grid de contribuições" src="https://raw.githubusercontent.com/RyanSkg/RyanSkg/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Citação aleatória"/>
+
+</div>
