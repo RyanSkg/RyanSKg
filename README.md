@@ -55,9 +55,10 @@ Sou fascinado por Programação 💻, Jogos 🎮 e Músicas 🎧!
 
 > 💡 Confira meus repositórios abaixo e fique à vontade para explorar!
 
-<!-- Quando tiver projetos prontos, adicione assim:
-- [**Nome do Projeto**](https://github.com/RyanSkg/nome-do-repo) — breve descrição do que faz
--->
+- 🧠 [**Mindly**](https://mindly-r.vercel.app) — app de saúde mental feito em Angular (projeto final do Curso Ford): percebe padrões emocionais e conecta a pessoa a psicólogos. *Repositório privado.*
+- 💣 [**BombDesarm**](https://github.com/RyanSkg/BombDesarm) — jogo de desarmar bomba em C# (console) com versão web. 👉 [Jogar online](https://ryanskg.github.io/BombDesarm/)
+- 🗂️ **HQ** — meu painel pessoal em cima das notas do Obsidian: API em Express, versão web em Angular, app de PC em Python (PySide6) e app Android em React Native. *Repositório privado.*
+- 🚗 [**Trello-Angular**](https://github.com/RyanSkg/Trello-Angular) — dashboard de veículos da Ford em Angular com login no back-end (Express), busca por modelo e por código VIN.
 
 ---
 
